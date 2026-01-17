@@ -1,0 +1,19 @@
+﻿node.exe : [36m
+At line:1 char:1
++ & "C:\Program Files\nodejs/node.exe" "C:\Program 
+Files\nodejs/node_mo ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: ([36m:Strin 
+   g) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+[1msrc/index.ts[22m ΓåÆ [1mdist/index.js, 
+dist/index.esm.js[22m...[39m
+[32mcreated [1mdist/index.js, dist/index.esm.js[22m 
+in [1m4.5s[22m[39m
+[36m
+[1mdist/index.d.ts[22m ΓåÆ 
+[1mdist/index.d.ts[22m...[39m
+[32mcreated [1mdist/index.d.ts[22m in 
+[1m152ms[22m[39m
