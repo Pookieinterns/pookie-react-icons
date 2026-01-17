@@ -9,6 +9,8 @@ on:
       - 'src/**'
       - '.github/workflows/deploy-docs.yml'
 
+permissions:
+  contents: write
 jobs:
   deploy:
     runs-on: ubuntu-latest
