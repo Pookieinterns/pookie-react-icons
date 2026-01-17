@@ -7,3 +7,6 @@ dist
 .vscode
 .idea
 build
+.cache
+gh-pages
+**/node_modules/.cache/gh-pages
